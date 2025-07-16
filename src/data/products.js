@@ -1,8 +1,8 @@
-import image1 from "../Assets/image.jpeg";
-import image2 from "../Assets/images.jpeg";
-import image4 from "../Assets/lenovo.avif";
-import image5 from "../Assets/lenovo-2.webp";
-import image6 from "../Assets/macbook-pro-14-m2.webp";
+import image1 from "../assets/image.jpeg";
+import image2 from "../assets/images.jpeg";
+import image4 from "../assets/lenovo.avif";
+import image5 from "../assets/lenovo-2.webp";
+import image6 from "../assets/macbook-pro-14-m2.webp";
 
 const products = [
   // HP Laptops
