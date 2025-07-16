@@ -3,9 +3,9 @@ import { useState, useEffect, useRef } from "react";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 
 // 📸 Replace these imports with your own image paths
-import Img1 from "../Assets/gaming-laptop.jpg";
-import Img2 from "../Assets/business-laptop.webp";
-import Img3 from "../Assets/student laptops.avif";   // keep the space if your file is named that way
+import Img1 from "../assets/gaming-laptop.jpg";
+import Img2 from "../assets/business-laptop.webp";
+import Img3 from "../assets/student laptops.avif";   // keep the space if your file is named that way
 
 /* --------------------------------------------------
    Slide data – tweak titles, subtitles, or add more
